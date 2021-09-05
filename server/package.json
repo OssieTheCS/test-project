@@ -1,0 +1,16 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "New Developer Evaluation Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yabapmatt",
+  "license": "",
+  "dependencies": {
+    "@splinterlands/hive-interface": "^2.1.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
