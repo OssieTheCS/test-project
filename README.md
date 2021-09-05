@@ -16,6 +16,8 @@ If installed and run successfully, the application will log to the console a liv
 It will also serve this data as an API for the client to use. 
 
 ## Solution
+![alt text](https://i.imgur.com/vzsdFvI.gif)
+
 
 The solution satifies the following requirements:
 
